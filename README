@@ -1,52 +1,49 @@
 # WEB103 Project 1 - The Ultimate Sneaker Collection
 
-Submitted by: Emilio L. Aleman
+**Submitted by:** Emilio L. Aleman
 
-About this web app: A web app that showcases a curated list of iconic sneakers. Users can browse the collection and click on any sneaker to view more details about its history and significance.
+**About this web app:** A web app that showcases a curated list of iconic sneakers. Users can browse the collection and click on any sneaker to view more details about its history and significance.
 
-Time spent: 2 hours
+**Time spent:** 2 hours
+
+---
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-<!-- Make sure to check off completed functionality below -->
 - [X] **The web app uses only HTML, CSS, and JavaScript without a frontend framework**
 - [X] **The web app displays a title**
 - [X] **The web app displays at least five unique list items, each with at least three displayed attributes (such as title, text, and image)**
 - [X] **The user can click on each item in the list to see a detailed view of it, including all database fields**
-  - [X] **Each detail view should be a unique endpoint, such as as `localhost:3000/bosses/crystalguardian` and `localhost:3000/mantislords`**
-  - [X] *Note: When showing this feature in the video walkthrough, please show the unique URL for each detailed view. We will not be able to give points if we cannot see the implementation* 
+  - [X] **Each detail view should be a unique endpoint, such as `localhost:3000/sneakers/air-jordan-1-chicago`**
+  - [X] *Note: When showing this feature in the video walkthrough, please show the unique URL for each detailed view. We will not be able to give points if we cannot see the implementation*
 - [X] **The web app serves an appropriate 404 page when no matching route is defined**
 - [X] **The web app is styled using Picocss**
 
+---
+
+## Optional Features
+
 The following **optional** features are implemented:
 
-- [X] The web app displays items in a unique format, such as cards rather than lists or animated list items
+- [x] The web app displays items in a unique format, such as cards rather than lists or animated list items
 
-The following **additional** features are implemented:
-
-- [ ] List anything else that you added to improve the site's functionality!
+---
 
 ## Video Walkthrough
 
-**Note: please be sure to 
-
 Here's a walkthrough of implemented required features:
 
-<img src='https://imgur.com/a/zKXJKLJ' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="https://imgur.com/a/web103-project-1-emilio-l-aleman-zKXJKLJ" title="Video Walkthrough" alt="Video Walkthrough" />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ScreenToGif
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+**GIF created with:** ScreenToGif
 
+---
 
 ## License
 
-Copyright [2025] [Emilio L. Aleman]
+Copyright 2025 Emilio L. Aleman
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 

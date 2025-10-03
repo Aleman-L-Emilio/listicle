@@ -1,0 +1,24 @@
+/* General body styling */
+body {
+    padding-bottom: 5rem;
+}
+
+/* Sneaker card styling */
+article img {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    border-radius: var(--border-radius) var(--border-radius) 0 0;
+}
+
+article .card-body {
+    padding: var(--spacing);
+}
+
+article h3 {
+    margin-bottom: 0.5rem;
+}
+
+article p:last-child {
+    margin-bottom: 0;
+}

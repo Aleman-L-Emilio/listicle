@@ -1,49 +1,40 @@
-# WEB103 Project 1 - The Ultimate Sneaker Collection
+# WEB103 Project 2 - The Ultimate Sneaker Collection
 
-**Submitted by:** Emilio L. Aleman
+Submitted by: Emilio L. Aleman
 
-**About this web app:** A web app that showcases a curated list of iconic sneakers. Users can browse the collection and click on any sneaker to view more details about its history and significance.
+About this web app: This web application allows users to view a curated list of iconic sneakers, complete with images and release years. The app is built using HTML, CSS, and JavaScript for the frontend, and it connects to a PostgreSQL database to store and retrieve sneaker information.
 
-**Time spent:** 2 hours
-
----
+Time spent: 3 hours
 
 ## Required Features
 
 The following **required** functionality is completed:
 
 - [X] **The web app uses only HTML, CSS, and JavaScript without a frontend framework**
-- [X] **The web app displays a title**
-- [X] **The web app displays at least five unique list items, each with at least three displayed attributes (such as title, text, and image)**
-- [X] **The user can click on each item in the list to see a detailed view of it, including all database fields**
-  - [X] **Each detail view should be a unique endpoint, such as `localhost:3000/sneakers/air-jordan-1-chicago`**
-  - [X] *Note: When showing this feature in the video walkthrough, please show the unique URL for each detailed view. We will not be able to give points if we cannot see the implementation*
-- [X] **The web app serves an appropriate 404 page when no matching route is defined**
-- [X] **The web app is styled using Picocss**
+- [X] **The web app is connected to a PostgreSQL database, with an appropriately structured database table for the list items**
+  - [X] **NOTE: Your walkthrough added to the README must include a view of your Render dashboard demonstrating that your Postgres database is available**
+  - [X]  **NOTE: Your walkthrough added to the README must include a demonstration of your table contents. Use the psql command 'SELECT * FROM tablename;' to display your table contents.**
 
----
-
-## Optional Features
 
 The following **optional** features are implemented:
 
-- [x] The web app displays items in a unique format, such as cards rather than lists or animated list items
+- [ ] The user can search for items by a specific attribute
 
----
+The following **additional** features are implemented:
+
+- [ ] List anything else that you added to improve the site's functionality!
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
 
-<img src="https://imgur.com/a/web103-project-1-emilio-l-aleman-zKXJKLJ" title="Video Walkthrough" alt="Video Walkthrough" />
+<img src='https://imgur.com/a/web103-project-1-emilio-l-aleman-zKXJKLJ' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-**GIF created with:** ScreenToGif
-
----
+GIF created with ScreenToGif
 
 ## License
 
-Copyright 2025 Emilio L. Aleman
+Copyright [2025] [Emilio L. Aleman]
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 

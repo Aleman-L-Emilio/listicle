@@ -41,4 +41,5 @@ const sneakers = [
   }
 ];
 
-module.exports = sneakers;
+// module.exports = sneakers;
+export default sneakers;
